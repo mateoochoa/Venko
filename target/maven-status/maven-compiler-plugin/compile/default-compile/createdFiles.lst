@@ -1,3 +1,8 @@
 com\model\Persona.class
-com\model\response.class
+com\model\Paciente.class
+com\model\Response.class
 com\Servicio\MedicoServicio.class
+com\Servicio\PacienteController.class
+com\Servicio\PacienteServicio.class
+com\model\Medico.class
+com\Servicio\MedicoController.class
